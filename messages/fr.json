@@ -1,0 +1,154 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "about": "À propos",
+    "testimonials": "Témoignages",
+    "contact": "Contact",
+    "appointment": "Prendre RDV"
+  },
+  "hero": {
+    "tagline": "Gynécologie & Médecine Esthétique",
+    "name": "Dr. Fadili Lamiaa",
+    "headline": "Votre santé,",
+    "headline2": "votre beauté,",
+    "headline3": "notre expertise.",
+    "description": "Une approche douce, personnalisée et de haute précision pour prendre soin de vous — de l'intérieur comme de l'extérieur.",
+    "cta_primary": "Prendre Rendez-vous",
+    "cta_secondary": "Découvrir nos soins",
+    "badge1": "15+ ans d'expérience",
+    "badge2": "Soins personnalisés",
+    "badge3": "Technologie avancée"
+  },
+  "services": {
+    "title": "Nos Spécialités",
+    "subtitle": "Une expertise double pour votre bien-être global",
+    "gyno_title": "Gynécologie",
+    "gyno_desc": "Soins gynécologiques complets avec bienveillance et discrétion.",
+    "gyno_services": [
+      "Suivi gynécologique régulier",
+      "Santé de la femme enceinte",
+      "Ménopause & hormonologie",
+      "Pathologies utérines & ovariennes",
+      "Colposcopie & biopsies",
+      "Contraception & planification familiale"
+    ],
+    "aesthetic_title": "Médecine Esthétique",
+    "aesthetic_desc": "Des traitements non-invasifs pour révéler votre beauté naturelle.",
+    "aesthetic_services": [
+      "Injections de Botox & Fillers",
+      "Rajeunissement du visage",
+      "Traitement de la cellulite",
+      "Remodelage corporel",
+      "Peeling chimique & laser",
+      "Mésothérapie & skinboosters"
+    ],
+    "learn_more": "En savoir plus",
+    "book_now": "Réserver"
+  },
+  "about": {
+    "title": "À propos du Dr. Fadili",
+    "subtitle": "Une médecine d'excellence, une approche humaine",
+    "paragraph1": "Docteure Fadili Lamiaa est une médecin spécialiste en gynécologie-obstétrique et médecine esthétique, animée par une passion profonde pour la santé féminine et la beauté naturelle.",
+    "paragraph2": "Avec plus de 15 ans d'expérience, elle allie expertise médicale rigoureuse et sensibilité artistique pour offrir à chaque patiente une prise en charge unique, douce et sur-mesure.",
+    "paragraph3": "Son cabinet est un espace de confiance où chaque femme est accueillie avec respect, écoute et bienveillance.",
+    "stat1_value": "15+",
+    "stat1_label": "Années d'expérience",
+    "stat2_value": "5000+",
+    "stat2_label": "Patientes satisfaites",
+    "stat3_value": "2",
+    "stat3_label": "Spécialités médicales",
+    "stat4_value": "100%",
+    "stat4_label": "Soins personnalisés",
+    "credentials": [
+      "Docteure en Médecine — Faculté de Médecine de Casablanca",
+      "Spécialiste en Gynécologie-Obstétrique",
+      "Certifiée en Médecine Esthétique & Laser",
+      "Membre de la Société Marocaine de Gynécologie"
+    ]
+  },
+  "why": {
+    "title": "Pourquoi nous choisir ?",
+    "subtitle": "Une expérience médicale d'exception",
+    "items": [
+      {
+        "icon": "shield",
+        "title": "Sécurité & Confiance",
+        "description": "Des protocoles stricts et une hygiène irréprochable pour votre sécurité absolue."
+      },
+      {
+        "icon": "heart",
+        "title": "Approche Bienveillante",
+        "description": "Chaque patiente est unique. Nous écoutons, nous comprenons, nous accompagnons."
+      },
+      {
+        "icon": "sparkles",
+        "title": "Technologie de Pointe",
+        "description": "Équipements médicaux de dernière génération pour des résultats optimaux."
+      },
+      {
+        "icon": "clock",
+        "title": "Disponibilité & Flexibilité",
+        "description": "Des horaires adaptés à votre emploi du temps, avec prise en charge rapide."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Témoignages",
+    "subtitle": "Ce que disent nos patientes",
+    "items": [
+      {
+        "name": "Salma B.",
+        "role": "Patiente depuis 3 ans",
+        "text": "Le Dr. Fadili est exceptionnelle. Son écoute, sa douceur et son professionnalisme m'ont mis en confiance dès la première consultation. Je recommande vivement.",
+        "rating": 5
+      },
+      {
+        "name": "Nadia L.",
+        "role": "Médecine Esthétique",
+        "text": "J'ai eu des injections de fillers et le résultat est naturel, subtil et parfait. Le Dr. Fadili a un vrai sens artistique. Mon visage rayonne !",
+        "rating": 5
+      },
+      {
+        "name": "Amina R.",
+        "role": "Suivi Gynécologique",
+        "text": "Un cabinet chaleureux, une équipe attentionnée et un médecin hors du commun. Je me sens en sécurité et écoutée à chaque visite.",
+        "rating": 5
+      },
+      {
+        "name": "Yasmine K.",
+        "role": "Traitement Esthétique",
+        "text": "Résultats incroyables après le traitement anti-cellulite. Je retrouve confiance en moi. Merci infiniment Dr. Fadili !",
+        "rating": 5
+      }
+    ]
+  },
+  "appointment": {
+    "title": "Prendre Rendez-vous",
+    "subtitle": "Nous sommes là pour vous accompagner",
+    "form_name": "Nom complet",
+    "form_email": "Adresse email",
+    "form_phone": "Numéro de téléphone",
+    "form_service": "Service souhaité",
+    "form_message": "Message (optionnel)",
+    "form_submit": "Envoyer la demande",
+    "form_success": "Votre demande a été envoyée avec succès !",
+    "option_gyno": "Gynécologie",
+    "option_aesthetic": "Médecine Esthétique",
+    "option_other": "Autre",
+    "info_address": "123 Boulevard Mohammed V, Casablanca, Maroc",
+    "info_phone": "+212 6 12 34 56 78",
+    "info_email": "contact@drfadili.ma",
+    "info_hours": "Lun – Sam : 9h00 – 18h00"
+  },
+  "footer": {
+    "tagline": "Gynécologie & Médecine Esthétique",
+    "description": "Un espace de soins dédié à la santé et à la beauté de la femme.",
+    "quick_links": "Liens rapides",
+    "contact_info": "Contact",
+    "follow_us": "Suivez-nous",
+    "rights": "Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Mentions légales"
+  }
+}

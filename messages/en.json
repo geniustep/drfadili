@@ -1,0 +1,154 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "appointment": "Book Appointment"
+  },
+  "hero": {
+    "tagline": "Gynecology & Aesthetic Medicine",
+    "name": "Dr. Fadili Lamiaa",
+    "headline": "Your health,",
+    "headline2": "your beauty,",
+    "headline3": "our expertise.",
+    "description": "A gentle, personalized, and high-precision approach to caring for you — inside and out.",
+    "cta_primary": "Book an Appointment",
+    "cta_secondary": "Discover our treatments",
+    "badge1": "15+ years of experience",
+    "badge2": "Personalized care",
+    "badge3": "Advanced technology"
+  },
+  "services": {
+    "title": "Our Specialties",
+    "subtitle": "Dual expertise for your overall well-being",
+    "gyno_title": "Gynecology",
+    "gyno_desc": "Comprehensive gynecological care with kindness and discretion.",
+    "gyno_services": [
+      "Regular gynecological monitoring",
+      "Pregnancy health care",
+      "Menopause & hormonal health",
+      "Uterine & ovarian pathologies",
+      "Colposcopy & biopsies",
+      "Contraception & family planning"
+    ],
+    "aesthetic_title": "Aesthetic Medicine",
+    "aesthetic_desc": "Non-invasive treatments to reveal your natural beauty.",
+    "aesthetic_services": [
+      "Botox & Filler injections",
+      "Facial rejuvenation",
+      "Cellulite treatment",
+      "Body contouring",
+      "Chemical peel & laser",
+      "Mesotherapy & skin boosters"
+    ],
+    "learn_more": "Learn more",
+    "book_now": "Book now"
+  },
+  "about": {
+    "title": "About Dr. Fadili",
+    "subtitle": "Excellence in medicine, a human approach",
+    "paragraph1": "Dr. Fadili Lamiaa is a specialist in gynecology-obstetrics and aesthetic medicine, driven by a deep passion for women's health and natural beauty.",
+    "paragraph2": "With over 15 years of experience, she combines rigorous medical expertise with artistic sensitivity to offer each patient unique, gentle, and tailored care.",
+    "paragraph3": "Her practice is a space of trust where every woman is welcomed with respect, attentiveness, and kindness.",
+    "stat1_value": "15+",
+    "stat1_label": "Years of experience",
+    "stat2_value": "5000+",
+    "stat2_label": "Satisfied patients",
+    "stat3_value": "2",
+    "stat3_label": "Medical specialties",
+    "stat4_value": "100%",
+    "stat4_label": "Personalized care",
+    "credentials": [
+      "Doctor of Medicine — Faculty of Medicine, Casablanca",
+      "Specialist in Gynecology-Obstetrics",
+      "Certified in Aesthetic Medicine & Laser",
+      "Member of the Moroccan Society of Gynecology"
+    ]
+  },
+  "why": {
+    "title": "Why choose us?",
+    "subtitle": "An exceptional medical experience",
+    "items": [
+      {
+        "icon": "shield",
+        "title": "Safety & Trust",
+        "description": "Strict protocols and impeccable hygiene for your absolute safety."
+      },
+      {
+        "icon": "heart",
+        "title": "Caring Approach",
+        "description": "Every patient is unique. We listen, we understand, we support."
+      },
+      {
+        "icon": "sparkles",
+        "title": "Cutting-edge Technology",
+        "description": "Latest generation medical equipment for optimal results."
+      },
+      {
+        "icon": "clock",
+        "title": "Availability & Flexibility",
+        "description": "Schedules adapted to your lifestyle, with prompt care."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Testimonials",
+    "subtitle": "What our patients say",
+    "items": [
+      {
+        "name": "Salma B.",
+        "role": "Patient for 3 years",
+        "text": "Dr. Fadili is exceptional. Her attentiveness, gentleness, and professionalism put me at ease from the very first consultation. I highly recommend her.",
+        "rating": 5
+      },
+      {
+        "name": "Nadia L.",
+        "role": "Aesthetic Medicine",
+        "text": "I had filler injections and the result is natural, subtle, and perfect. Dr. Fadili has a true artistic sense. My face glows!",
+        "rating": 5
+      },
+      {
+        "name": "Amina R.",
+        "role": "Gynecological Follow-up",
+        "text": "A warm practice, an attentive team, and an extraordinary physician. I feel safe and heard at every visit.",
+        "rating": 5
+      },
+      {
+        "name": "Yasmine K.",
+        "role": "Aesthetic Treatment",
+        "text": "Incredible results after the cellulite treatment. I've regained confidence in myself. Thank you so much Dr. Fadili!",
+        "rating": 5
+      }
+    ]
+  },
+  "appointment": {
+    "title": "Book an Appointment",
+    "subtitle": "We are here to support you",
+    "form_name": "Full name",
+    "form_email": "Email address",
+    "form_phone": "Phone number",
+    "form_service": "Desired service",
+    "form_message": "Message (optional)",
+    "form_submit": "Send request",
+    "form_success": "Your request has been successfully sent!",
+    "option_gyno": "Gynecology",
+    "option_aesthetic": "Aesthetic Medicine",
+    "option_other": "Other",
+    "info_address": "123 Boulevard Mohammed V, Casablanca, Morocco",
+    "info_phone": "+212 6 12 34 56 78",
+    "info_email": "contact@drfadili.ma",
+    "info_hours": "Mon – Sat: 9:00 AM – 6:00 PM"
+  },
+  "footer": {
+    "tagline": "Gynecology & Aesthetic Medicine",
+    "description": "A care space dedicated to women's health and beauty.",
+    "quick_links": "Quick links",
+    "contact_info": "Contact",
+    "follow_us": "Follow us",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Legal Notice"
+  }
+}
